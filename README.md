@@ -13,7 +13,7 @@ Heila AI is an advanced AI chatbot platform that provides intelligent conversati
 - Vercel AI SDK
 - shadcn/ui components
 - Radix UI primitives
-- NextAuth.js for authentication
+
 
 ## Features
 
@@ -101,11 +101,9 @@ pnpm test:e2e       # Run end-to-end tests
 1. Create a feature branch from `main`
 2. Make your changes
 3. Submit a pull request
-4. Ensure CI checks pass
 
-## CI/CD
 
-This repository uses GitHub Actions for continuous integration. See `.github/workflows` for configuration details.
+
 
 ## License
 
@@ -113,4 +111,4 @@ This project is proprietary and confidential. Unauthorized copying, distribution
 
 ## Contact
 
-For questions or support, please contact the Skyforge Solutions development team at dev@skyforgeinc.com.
+For questions or support, please contact the Skyforge Solutions development team at dev@buildwithskyforge.com 
